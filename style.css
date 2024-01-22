@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #f0f0f0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+#timeline {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    /* Voeg hier meer stijlen toe voor de tijdlijn */
+}
